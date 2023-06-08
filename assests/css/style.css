@@ -1,7 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 *{
     margin: 0;
     padding: 0;
+    font-family: "kanit", sans-serif;
 }
-.hero{
-    height: 100vh;
+
+.end-hero{
+    background-image: url('../waves.svg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.end-hero .ehcontainer{
+    padding: 25vh 0px;
+    /* background-image: url('../4dots.svg') ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 400px 400px; */
+}
+.social-links i{
+    margin: 10px;
+}
+.skill-no{
+    color: white;
+    background: rgb(255, 191, 0);
+    border-radius: 10%;
+    padding: 10px 20PX;
+    font-size: 50px;
+    text-align: center;
+}
+.skill-head{
+    text-transform: uppercase;
 }
