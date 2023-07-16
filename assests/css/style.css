@@ -4,6 +4,10 @@
     padding: 0;
     font-family: "kanit", sans-serif;
 }
+body{
+    background: #0A1220;
+    color: white;
+}
 
 .end-hero{
     background-image: url('../waves.svg') ;
