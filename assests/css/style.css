@@ -51,3 +51,7 @@ body{
 .client-card img{
     height: 250px;
 }
+.services{
+    font-size: 20px;
+    text-align: center;
+}
