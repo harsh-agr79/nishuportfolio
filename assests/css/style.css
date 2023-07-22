@@ -35,3 +35,19 @@ body{
 .skill-head{
     text-transform: uppercase;
 }
+.client{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;    
+}
+.client-card{
+    width: 270px;
+    text-align: center;
+    background: #0d0d0d;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.client-card img{
+    height: 250px;
+}
